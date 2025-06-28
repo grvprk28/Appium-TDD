@@ -124,6 +124,7 @@ First we have to make your system ready then we can start our journey with appiu
 - `FunctionLibrary` java file for all generic methods to implement modularity & re-usability.
 - `tests` package which contains BaseTest to handle hooks (pre-requisite & post-requisite). SampleTest contains the test cases to cover positive & negative case for Create Wallet.
 - `app` directory to save apk file.
+- **NOTE** : apk file is not pushed to git due to size limitation. We need to download the apk from link https://trustwallet.com/ & keep the apk in the app folder.
 
 
 ### **Key functionalities covered**
